@@ -45,3 +45,5 @@
 console.log(b);
 // hello this is 11:44am hello srikanth
 // jeevan
+
+// task 1 solved

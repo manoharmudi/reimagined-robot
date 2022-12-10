@@ -48,3 +48,4 @@ console.log(b);
 
 // task 1 solved
 // task 2 solved
+// task 3 solved

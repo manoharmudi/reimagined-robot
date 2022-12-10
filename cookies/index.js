@@ -39,9 +39,9 @@
 // const iterator = text.matchAll("Cats");
 // console.log(iterator);
 
-(function(){
+(function () {
    b = 5;
-}) () ;
+})();
 console.log(b);
 // hello this is 11:44am hello srikanth
 // jeevan
@@ -58,4 +58,5 @@ console.log(b);
 // stashing 2
 // hellooooo I am stashing
 // this is data less priorty
+//this is srikanth
 

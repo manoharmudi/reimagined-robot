@@ -47,3 +47,4 @@ console.log(b);
 // jeevan
 
 // task 1 solved
+// task 2 solved
